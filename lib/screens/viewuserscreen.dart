@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'package:provider/provider.dart';
-import 'package:frontend_crm/providers/auth_provider.dart';
 
 class viewuserscreen extends StatefulWidget {
   const viewuserscreen({super.key});

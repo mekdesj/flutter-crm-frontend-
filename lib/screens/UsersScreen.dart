@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class UsersScreen extends StatefulWidget {
-  const UsersScreen({Key? key}) : super(key: key);
+  const UsersScreen({super.key});
 
   @override
   State<UsersScreen> createState() => _UsersScreenState();
