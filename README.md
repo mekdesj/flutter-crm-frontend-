@@ -1,16 +1,37 @@
-# frontend_crm
+# 📱💻 CRM System Frontend (Flutter + Web)
 
-A new Flutter project.
+This is the **cross-platform frontend** for the full-stack **Customer Relationship Management (CRM)** system.  
+It runs on **Android**, **iOS**, **desktop**, and **web browsers**, offering a unified experience across devices.
 
-## Getting Started
+Built with **Flutter** for fast performance and a consistent UI on all platforms.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📋 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Login & Authentication** (JWT from backend)  
+✅ **View, Add & Edit Leads**  
+✅ **View, Add & Edit Customers**  
+✅ **Task Assignment & Status Tracking**  
+✅ **Role-Based Views** – Admins see all, Agents see assigned records  
+✅ **Dashboard** – Overview of key metrics  
+✅ **Pagination & Sorting** – Smooth handling of large datasets  
+✅ **Web Support** – Fully functional in modern browsers (Chrome, Edge, Firefox)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏗️ Tech Stack
+
+- **Flutter (Dart)**
+- **HTTP package** (for API calls)
+- **Provider / Riverpod** (state management, if used)
+- **Material Design Widgets**
+- **Flutter Web** for browser deployment
+
+---
+
+## 🔗 Related Projects
+
+- **Backend (Spring Boot)** → [ https://github.com/mekdesj/CRM ](#)
+
+---
